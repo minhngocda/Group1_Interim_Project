@@ -1,7 +1,7 @@
-CountryRegionCode,Name,total_sale
-US,United States,45813564.53
-CA,Canada,12465818
-AU,Australia,8256363.893
-FR,France,7168938.068
-GB,United Kingdom,6648728.762
-DE,Germany,5113152.14
+Country_code,Country,Revenue,Sales
+US,United States,68980000,689800000
+CA,Canada,18040000,180400000
+GB,United Kingdom,6800000,68000000
+FR,France,6650000,66500000
+AU,Australia,6420000,64200000
+DE,Germany,5900000,59000000
