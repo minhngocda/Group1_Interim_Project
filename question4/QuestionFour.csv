@@ -1,0 +1,69 @@
+OrganizationLevel,JobTitle,PersonType,AverageSickLeaveHours
+NULL,Chief Executive Officer,EM,69
+4,Stocker,EM,68
+4,Shipping and Receiving Clerk,EM,67
+3,Shipping and Receiving Supervisor,EM,66
+3,Maintenance Supervisor,EM,66
+4,Production Technician - WC10,EM,65
+4,Janitor,EM,64
+4,Research and Development Manager,EM,64
+3,Facilities Administrative Assistant,EM,63
+2,Facilities Manager,EM,63
+4,Quality Assurance Technician,EM,61
+3,Production Supervisor - WC60,EM,60
+3,Quality Assurance Supervisor,EM,60
+2,Quality Assurance Manager,EM,60
+4,Production Technician - WC45,EM,59
+4,Document Control Assistant,EM,59
+3,Production Supervisor - WC50,EM,58
+3,Document Control Manager,EM,58
+3,Production Supervisor - WC45,EM,57
+4,Control Specialist,EM,57
+2,Application Specialist,EM,56
+3,Production Supervisor - WC40,EM,55
+3,Production Supervisor - WC30,EM,54
+2,Network Manager,EM,54
+3,Network Administrator,EM,54
+2,Database Administrator,EM,53
+1,Vice President of Production,EM,52
+1,Information Services Manager,EM,52
+3,Production Supervisor - WC10,EM,52
+3,Accounts Payable Specialist,EM,51
+3,Senior Tool Designer,EM,51
+4,Research and Development Engineer,EM,51
+3,Research and Development Manager,EM,50
+3,Accounts Receivable Specialist,EM,50
+3,Accountant,EM,49
+4,Production Technician - WC40,EM,49
+2,Assistant to the Chief Financial Officer,EM,48
+2,Accounts Manager,EM,48
+2,Finance Manager,EM,47
+2,Human Resources Manager,EM,47
+4,Buyer,EM,47
+3,Human Resources Administrative Assistant,EM,46
+4,Purchasing Assistant,EM,45
+3,Benefits Specialist,EM,45
+3,Purchasing Manager,EM,44
+3,Recruiter,EM,44
+3,Scheduling Assistant,EM,43
+4,Production Technician - WC50,EM,43
+2,Marketing Specialist,EM,42
+2,Master Scheduler,EM,42
+2,Production Control Manager,EM,41
+3,Production Supervisor - WC20,EM,40
+2,Marketing Assistant,EM,40
+1,Marketing Manager,EM,40
+4,Production Technician - WC30,EM,36
+3,Sales Representative,SP,35
+4,Production Technician - WC60,EM,33
+2,European Sales Manager,SP,30
+2,Pacific Sales Manager,SP,30
+2,North American Sales Manager,SP,27
+1,Vice President of Sales,EM,25
+4,Production Technician - WC20,EM,25
+4,Tool Designer,EM,24
+3,Design Engineer,EM,22
+2,Engineering Manager,EM,21
+3,Senior Design Engineer,EM,21
+1,Vice President of Engineering,EM,20
+1,Chief Financial Officer,EM,20
