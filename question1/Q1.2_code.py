@@ -21,13 +21,12 @@ fig, ax = plt.subplots()
 bar1 = ax.bar(x - width/2, y1, width, label='SalesYTD')
 bar2 = ax.bar(x + width/2, y2, width, label='SalesLastYear')
  
-#ax.set_xlabel('Year')
-ax.set_ylabel('USD')
+#set y label, title, xticks and legend for the chart
+ax.set_ylabel('*10million USD')
 ax.set_title('Total Sales per Region in United States')
 ax.set_xticks(x, region)
 ax.legend()
  
- 
-#fig.tight_layout()
+#Show the chart
  
 plt.show()
