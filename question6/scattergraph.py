@@ -18,3 +18,19 @@ ax1.set_xlabel("Annual Revenue")
 
 plt.scatter(x,y)
 plt.show()
+
+#scatter graph 2
+ax1.set_title("The relationship between the annual revenue and number of revenue")
+ax1.set_ylabel("NumberOfEmployees")
+ax1.set_xlabel("Annual Revenue")
+
+plt.scatter(y,z)
+plt.show()
+
+#scatter graph 3
+ax1.set_title("The relationship between the annual revenue and number of revenue")
+ax1.set_ylabel("AnnualRevenue")
+ax1.set_xlabel("NumberOfEmployees")
+
+plt.scatter(z,t)
+plt.show()
