@@ -1,0 +1,702 @@
+Name,BusinessEntityID,Revenue,SquareFeet,NumberEmployees
+Nationwide Supply,300,1606441.447,21000,17
+Twin Cycles,350,1606441.447,21000,11
+Quality Bike Sales,358,1606441.447,74000,67
+Seaside Bike Works,384,1606441.447,19000,10
+Nearest Bike Store,408,1606441.447,8000,4
+Fast Bike Works,410,1606441.447,25000,28
+Cross-town Parts Shop,426,1606441.447,23000,19
+Second Bike Shop,436,1606441.447,21000,19
+Uncompromising Quality Co,456,1606441.447,39000,46
+Helmets and Cycles,550,1606441.447,21000,14
+Unusual Bicycle Company,564,1606441.447,78000,99
+Budget Toy Store,624,1606441.447,71000,52
+Fitness Discount Store,666,1606441.447,19000,11
+Inexpensive Parts Shop,676,1606441.447,35000,34
+Plastic Products Manufacturers,688,1606441.447,37000,40
+Kids and Adults Cycle Shop,690,1606441.447,75000,93
+Rental Gallery,706,1606441.447,37000,40
+First Supplies,718,1606441.447,26000,22
+Online Bike Catalog,784,1606441.447,74000,88
+Rich Department Store,796,1606441.447,76000,94
+Jumbo Bikes,894,1606441.447,39000,41
+Fitness Bike Accessories,906,1606441.447,39000,47
+Expert Cycle Store,918,1606441.447,38000,37
+Major Bicycle Store,972,1606441.447,41000,49
+Popular Bike Lines,1042,1606441.447,20000,17
+Bike Part Wholesalers,1038,1606441.447,21000,15
+Mass Market Bikes,1058,1606441.447,7000,5
+Eastside Cycle Shop,1054,1606441.447,21000,11
+Volume Bike Sellers,1314,1606441.447,78000,100
+Global Sports Outlet,1342,1606441.447,75000,70
+Ideal Components,1354,1606441.447,76000,82
+Liquidation Sales,1370,1606441.447,37000,31
+Sensible Sports,1366,1606441.447,37000,33
+Preferable Bikes,1452,1606441.447,24000,29
+List Price Catalog Company,1464,1606441.447,37000,35
+Eastward Bike Accessories,1818,1606441.447,39000,39
+Region Bike Company,1854,1606441.447,75000,81
+Gears and Parts Company,1866,1606441.447,74000,87
+Cycle Parts and Accessories,1938,1606441.447,20000,10
+Helpful Sales and Repair Service ,1950,1606441.447,19000,16
+Links Works,1974,2062393.137,39000,40
+Off-Price Bike Center,1880,2062393.137,22000,14
+Regional Cycle Shop,1906,2062393.137,10000,8
+Educational Services,1914,2062393.137,19000,17
+Fitness Toys,1926,2062393.137,21000,11
+Good Bicycle Store,1432,2062393.137,71000,67
+Global Bike Retailers,1420,2062393.137,40000,49
+West Wind Distributors,1160,2062393.137,27000,29
+Enterprise Center,1178,2062393.137,23000,19
+Mechanical Brake Manufacturers,1190,2062393.137,21000,10
+"Fabrikam Inc., East",1198,2062393.137,20000,11
+Next Door Cycles,1250,2062393.137,27000,20
+Producer Goods Clearinghouse,1072,2062393.137,22000,16
+Precision Gears Inc.,1008,2062393.137,38000,40
+Bicycle Warehouse Inc.,1020,2062393.137,26000,22
+Rustic Bike Store,1076,2062393.137,19000,12
+Fast Services,1088,2062393.137,9000,3
+Hometown Riding Supplies,996,2062393.137,38000,46
+Lustrous Paints and Components,888,2062393.137,77000,80
+Versatile Sporting Goods Company,876,2062393.137,74000,64
+Best Cycle Store,770,2062393.137,78000,93
+Very Best Sports Supply,730,2062393.137,28000,28
+Primary Cycle Shop,736,2062393.137,37000,41
+Major Equipment Co,748,2062393.137,37000,47
+Nearby Bike Mall,758,2062393.137,74000,87
+Showcase for Cycles,830,2062393.137,71000,64
+Functional Store South,834,2062393.137,71000,70
+Bicycle Exporters,636,2062393.137,39000,34
+Rural Sporting Goods,646,2062393.137,20000,10
+Excellent Bikes,582,2062393.137,75000,81
+Speedometer Sales,606,2062393.137,39000,37
+Rambling Tours,578,2062393.137,19000,19
+North Bike Company,532,2062393.137,37000,40
+Amalgamated Parts Shop,538,2062393.137,77000,99
+Rodeway Bike Store,446,2062393.137,7000,4
+Teen Discount Store,416,2062393.137,18000,16
+Capital Riding Supplies,420,2062393.137,39000,46
+Pedaling Components,378,2062393.137,36000,35
+Top of the Line Bikes,314,2062393.137,40000,46
+Irregulars Outlet,322,2062393.137,7000,5
+Center Cycle Shop,430,3748246.122,25000,20
+Moderately-Priced Bikes Store,498,3748246.122,39000,39
+Raw Materials Inc,522,3748246.122,74000,73
+Nonskid Tire Company,536,3748246.122,80000,100
+Thorough Parts and Repair Services,600,3748246.122,22000,18
+Alternative Vehicles,586,3748246.122,41000,45
+Imaginary Toys,674,3748246.122,20000,12
+Sports Merchandise,660,3748246.122,73000,83
+Roadway Bike Emporium,858,3748246.122,68000,52
+Successful Sales Company,802,3748246.122,38000,46
+Vast Bike Sales and Rental,870,3748246.122,73000,70
+A Bike Store,934,3748246.122,7000,2
+Two Bike Shops,938,3748246.122,20000,14
+Synthetic Materials Manufacturing,1118,3748246.122,39000,40
+Tires and Tubes,1124,3748246.122,79000,90
+Fitness Supplies,1230,3748246.122,19000,15
+Scooters and Bikes Store,1258,3748246.122,21000,14
+Outdoor Sports Supply,1270,3748246.122,9000,2
+Kickstands and Accessories Company,1282,3748246.122,10000,8
+Capable Sales and Service,1206,3748246.122,10000,3
+Fad Outlet,1218,3748246.122,8000,9
+Roving Sports,1138,3748246.122,41000,43
+Certified Bicycle Supply,1150,3748246.122,24000,25
+City Manufacturing,1412,3748246.122,75000,66
+Official Parts Shop,1388,3748246.122,24000,22
+Front Sporting Goods,1328,3748246.122,70000,55
+Authorized Bike Sales and Rental,1304,3748246.122,75000,95
+Family Entertainment Center,1292,3748246.122,75000,89
+Some Discount Store,1438,3748246.122,27000,22
+All Cycle Shop,1470,3748246.122,25000,27
+Riding Associates,1482,3748246.122,36000,33
+Honest Repair Service,1846,3748246.122,77000,88
+Bike Experts,1834,3748246.122,73000,82
+Cycle Clearance,1804,3748246.122,40000,46
+Sellers of Cycles,1810,3748246.122,37000,43
+Travel Sports,1890,3748246.122,18000,17
+Mail-Order Outlet,1982,3748246.122,18000,17
+Convenient Sales and Service,1966,3748246.122,77000,98
+Large Bike Shop,1952,4069422.211,19000,17
+Fasteners & Bolts Outlet,1940,4069422.211,18000,11
+Plastic Parts Company,1864,4069422.211,76000,86
+Quick Parts and Service,1928,4069422.211,7000,5
+Famous Bike Shop,1816,4069422.211,37000,40
+Top Bike Market,1852,4069422.211,75000,80
+Seats and Saddles Company,1466,4069422.211,38000,36
+Recommended Bicycles,1454,4069422.211,35000,30
+National Manufacturing,1312,4069422.211,80000,99
+Cycle Merchants,1340,4069422.211,75000,67
+Reliable Retail Center,1368,4069422.211,35000,32
+Grand Industries,1352,4069422.211,77000,81
+Tandem Sales and Service,1364,4069422.211,38000,34
+Home Town Bike Store,1166,4069422.211,20000,11
+Consolidated Messenger,1238,4069422.211,7000,8
+Superb Sales and Repair,1044,4069422.211,19000,18
+General Department Stores,1056,4069422.211,11000,8
+Operational Manufacturing,1060,4069422.211,8000,2
+Family Cycle Store,1040,4069422.211,18000,16
+Primary Bike Distributors,970,4069422.211,39000,46
+General Riding Supplies,920,4069422.211,36000,34
+General Bike Corporation,908,4069422.211,38000,48
+Quick Delivery Service,896,4069422.211,37000,42
+Rewarding Activities Company,794,4069422.211,76000,93
+Neighborhood Store,782,4069422.211,77000,87
+Bikes and Motorbikes,622,4069422.211,40000,49
+General Cycle Storehouse,668,4069422.211,20000,12
+Nuts and Bolts Mfg.,678,4069422.211,37000,35
+South Bike Company,708,4069422.211,40000,37
+Machines & Cycles Store,720,4069422.211,22000,19
+Custom Accessories Company,562,4069422.211,79000,98
+Metal Processing Company,512,4069422.211,39000,47
+Toy Manufacturing Inc,500,4069422.211,40000,41
+Odometers and Accessories Company,464,4069422.211,76000,92
+Finer Cycle Shop,428,4069422.211,20000,16
+First-Rate Outlet,438,4069422.211,26000,20
+Gasless Cycle Shop,412,4069422.211,24000,29
+Nice Bikes,386,4069422.211,9000,8
+Serious Cycles,356,4069422.211,71000,64
+Family's Favorite Bike Shop,332,4069422.211,21000,18
+Great Bikes ,318,4207894.603,10000,3
+Major Sport Suppliers,330,4207894.603,68000,52
+Bicycle Accessories and Kits,304,4207894.603,7000,9
+Impromptu Trips,402,4207894.603,37000,33
+Road-Way Mart,390,4207894.603,26000,27
+Safe Cycles Shop,472,4207894.603,72000,73
+Another Bicycle Company,442,4207894.603,6000,2
+Latest Sports Equipment,518,4207894.603,18000,14
+Parcel Express Delivery Service,528,4207894.603,36000,38
+Commendable Bikes,558,4207894.603,37000,39
+Fifth Bike Store,574,4207894.603,26000,25
+Metro Cycle Shop,612,4207894.603,74000,83
+Outstanding Cycles,656,4207894.603,78000,85
+Sports Commodities,632,4207894.603,37000,32
+Friendly Bike Shop,762,4207894.603,75000,89
+Rugged Bikes,774,4207894.603,77000,95
+Grand Cycle Store,756,4207894.603,41000,43
+First Department Stores,744,4207894.603,38000,45
+Suburban Cycle Shop,818,4207894.603,10000,8
+Racing Bike Outlet,822,4207894.603,72000,52
+Stock Parts and Supplies,838,4207894.603,76000,76
+Coho Sports,892,4207894.603,75000,82
+The Bike Shop,880,4207894.603,73000,70
+Finer Mart,1004,4207894.603,38000,46
+Latest Accessories Sales,992,4207894.603,38000,44
+Year-Round Sports,964,4207894.603,75000,66
+Superior Hardware Distributors,1068,4207894.603,25000,20
+Progressive Sports,1028,4207894.603,18000,10
+Central Discount Store,1016,4207894.603,25000,28
+Running and Cycling Gear,1084,4207894.603,7000,4
+Finer Parts Shop,1246,4207894.603,19000,18
+Sure & Reliable Sporting Goods,1174,4207894.603,22000,17
+Basic Bike Company,1186,4207894.603,20000,14
+Closeout Boutique,1424,4207894.603,70000,55
+A Cycle Shop,1922,4207894.603,22000,17
+Wingtip Toys,1910,4207894.603,20000,15
+Demand Distributors,1876,4207894.603,24000,20
+Vintage Sport Boutique,1888,4207894.603,9000,2
+The Bike Outlet,1894,5087977.212,21000,19
+Metropolitan Equipment,1962,5087977.212,78000,96
+Ultimate Bicycle Company,1958,5087977.212,78000,94
+Recreation Toy Store,1986,5087977.212,17000,11
+Accessories Network,1442,5087977.212,22000,16
+Cycles Sales and Repair,1474,5087977.212,26000,29
+Rural Mountain Bike Mart,1486,5087977.212,39000,35
+Getaway Inn,1830,5087977.212,75000,80
+Racing Sales and Service,1842,5087977.212,77000,86
+Hiatus Bike Tours,1800,5087977.212,40000,48
+Pretty Bikes and Toys,1210,5087977.212,6000,5
+Instant Cycle Store,1154,5087977.212,23000,19
+Roadway Bicycle Supply,1262,5087977.212,19000,10
+Self-Contained Cycle Parts Company,1274,5087977.212,7000,4
+Spare Parts Co.,1234,5087977.212,19000,17
+Township Inn,1222,5087977.212,18000,11
+Impervious Paint Company,1380,5087977.212,18000,10
+Finer Sporting Goods,1384,5087977.212,18000,16
+Sports Products Store,1408,5087977.212,78000,99
+Racing Tours,1396,5087977.212,36000,34
+Finished Parts Shop,1400,5087977.212,36000,40
+Metro Sports Equipment,1324,5087977.212,41000,49
+Neighborhood Bicycle Storehouse,1286,5087977.212,17000,10
+Perfect Toys,1300,5087977.212,76000,93
+Outdoor Toy Store,1104,5087977.212,8000,8
+Community Department Stores,1114,5087977.212,36000,34
+Major Amusement Company,1142,5087977.212,36000,37
+Spa and Exercise Outfitters,962,5087977.212,79000,98
+Wheels Inc.,942,5087977.212,19000,16
+Racing Supply Distributors,946,5087977.212,38000,41
+Steel Inc.,982,5087977.212,74000,67
+First Center,854,5087977.212,39000,46
+Brand New Bikes,866,5087977.212,73000,64
+Registered Cycle Store,808,5087977.212,77000,87
+Ace Bicycle Supply,628,5087977.212,73000,81
+Full Sports Supply,590,5087977.212,38000,47
+Racing Store,594,5087977.212,78000,92
+Atypical Bike Company,508,5087977.212,25000,20
+Favorite Toy Distributor,482,5087977.212,77000,88
+Country Parts Shop,434,5087977.212,21000,14
+Transportation Options,418,6683536.658,20000,17
+Workout Emporium,380,6683536.658,39000,36
+Valley Toy Store,324,6683536.658,9000,6
+Vinyl and Plastic Goods Corporation,312,6683536.658,41000,43
+Designated Distributors,346,6683536.658,72000,61
+Commuter Bicycle Store,490,6683536.658,22000,17
+Bikes for Two,510,6683536.658,22000,18
+Scratch-Resistant Finishes Company,466,6683536.658,21000,16
+Farthest Bike Store,580,6683536.658,74000,80
+Courteous Bicycle Specialists,566,6683536.658,10000,8
+Requisite Part Supply,552,6683536.658,39000,35
+Retail Mall,592,6683536.658,79000,91
+Petroleum Products Distributors,618,6683536.658,78000,86
+Two-Wheeled Transit Company,608,6683536.658,38000,34
+Camping and Sports Store,626,6683536.658,77000,80
+Corner Bicycle Supply,648,6683536.658,17000,11
+Sundry Sporting Goods,812,6683536.658,7000,5
+Certified Sports Supply,806,6683536.658,78000,86
+Vigorous Exercise Company,828,6683536.658,72000,61
+Price-Cutter Discount Bikes,864,6683536.658,70000,61
+Future Bikes,844,6683536.658,74000,81
+Original Bicycle Supply Company,852,6683536.658,38000,43
+Custom Sales and Service,750,6683536.658,39000,48
+Sixth Bike Store,738,6683536.658,37000,42
+Urban Sports Emporium,732,6683536.658,24000,29
+Citywide Service and Repair,768,6683536.658,79000,92
+Finer Riding Supplies,780,6683536.658,78000,98
+Metro Manufacturing,986,6683536.658,36000,41
+Wholesale Parts,980,6683536.658,70000,64
+Greater Bike Store,998,6683536.658,39000,47
+Standard Bikes,948,6683536.658,38000,42
+Finer Sales and Service,956,6683536.658,77000,95
+The Showroom,960,6683536.658,79000,97
+Our Sporting Goods Store,886,6683536.658,76000,79
+Rural Cycle Emporium,928,6683536.658,21000,11
+Retail Discount Store,1144,6683536.658,37000,34
+Efficient Cycling,1130,6683536.658,77000,93
+General Industries,1132,6683536.658,42000,48
+Economy Center,1112,6683536.658,35000,31
+The Commissary,1106,6683536.658,9000,6
+Eastside Parts Shop,1078,6683536.658,17000,10
+Sharp Bikes,1022,6683536.658,19000,19
+Cross-Country Riding Supplies,1010,6683536.658,36000,37
+Online Bike Warehouse,1062,6683536.658,21000,17
+Racing Partners,1298,6683536.658,79000,92
+Gear-Shift Bikes Limited,1288,6683536.658,21000,11
+Rapid Bikes,1322,6683536.658,40000,46
+Tire Exchange,1394,6683536.658,36000,31
+Professional Cyclists,1406,6683536.658,77000,98
+"Health Spa, Limited",1418,6683536.658,40000,46
+Acceptable Sales & Service,1224,6683536.658,21000,12
+Twelfth Bike Store,1236,6683536.658,21000,18
+Up-To-Date Sports,1252,6683536.658,26000,20
+Metal Clearing House,1276,6683536.658,9000,5
+Refined Department Stores,1264,6683536.658,7000,8
+Leisure Activities,1156,6683536.658,22000,16
+Bikes for Kids and Adults,1162,6683536.658,36000,30
+Purple Bicycle Company,1180,6683536.658,27000,20
+Road Way Sales and Rental,1212,6683536.658,10000,6
+Non-Slip Pedal Company,1192,6683536.658,11000,8
+General Supplies,1200,6683536.658,21000,12
+One Bike Company,1798,6683536.658,41000,49
+Major Cycling,1828,6683536.658,77000,79
+Top Sports Supply,1840,6683536.658,78000,85
+City Cycling,1488,6683536.658,37000,36
+Low Price Cycles,1476,6683536.658,36000,30
+Remote Bicycle Specialists,1444,6683536.658,19000,13
+Leather Seat Factory,1430,6683536.658,72000,64
+Retreat Inn,1988,6683536.658,7000,8
+Mercantile Outlet,1972,6683536.658,71000,66
+Tenth Bike Store,1896,6683536.658,23000,18
+Red Bicycle Company,1882,6683536.658,18000,11
+Active Life Toys,1916,6683536.658,20000,18
+Rural Bicycle Supply,1908,6683536.658,10000,6
+Fun Times Club,1900,7259567.876,22000,14
+Timely Shipping Service,1920,7259567.876,24000,20
+Trendy Department Stores,1886,7259567.876,9000,5
+Eighth Bike Store,1874,7259567.876,21000,19
+Technical Parts Manufacturing,1990,7259567.876,7000,5
+Exercise Center,1978,7259567.876,23000,19
+Permanent Finish Products,1970,7259567.876,79000,100
+Curbside Sporting Goods,1446,7259567.876,20000,10
+Bicycle Merchandise Warehouse,1426,7259567.876,69000,58
+Metropolitan Manufacturing,1478,7259567.876,39000,31
+Engineered Bike Systems,1490,7259567.876,40000,37
+Professional Containers and Packaging Co.,1796,7259567.876,38000,46
+Valley Bicycle Distributors,1838,7259567.876,76000,84
+Wheel Gallery,1850,7259567.876,79000,90
+Fitness Department Stores,1814,7259567.876,37000,41
+Transport Bikes,1808,7259567.876,41000,44
+Separate Parts Corporation,1184,7259567.876,21000,16
+Weekend Bike Tours,1196,7259567.876,7000,4
+Sturdy Toys,1214,7259567.876,9000,7
+Retail Sporting Goods,1128,7259567.876,78000,92
+Paints and Solvents Company,1158,7259567.876,18000,13
+Reasonable Bicycle Sales,1266,7259567.876,10000,6
+Many Bikes Store,1278,7259567.876,10000,6
+Mountain Bike Center,1254,7259567.876,20000,18
+Racing Toys,1204,7259567.876,18000,14
+Finish and Sealant Products,1244,7259567.876,22000,17
+Brown Bicycle Company,1226,7259567.876,19000,13
+Bike Dealers Association,1414,7259567.876,40000,40
+Rally Master Company Inc,1404,7259567.876,77000,97
+Discount Tours,1392,7259567.876,28000,28
+Security Racks and Locks Wholesalers,1320,7259567.876,41000,43
+Frugal Bike Shop,1290,7259567.876,21000,12
+Trailblazing Sports,1296,7259567.876,78000,91
+Small Bike Shop,1066,7259567.876,23000,19
+Distant Inn,1002,7259567.876,38000,49
+Bike World,1014,7259567.876,35000,31
+Metropolitan Sports Supply,1026,7259567.876,21000,13
+First Cycle Store,1082,7259567.876,9000,6
+Affordable Sports Equipment,1108,7259567.876,8000,4
+Highway Bike Shop,1134,7259567.876,40000,49
+Vale Riding Supplies,1146,7259567.876,37000,31
+Associated Bikes,930,7259567.876,7000,8
+Real Sporting Goods,874,7259567.876,72000,76
+Safe Toys,882,7259567.876,74000,73
+Futuristic Sport Distributors,954,7259567.876,78000,94
+Big-Time Bike Store,958,7259567.876,80000,96
+The Bicycle Accessories Company,950,7259567.876,37000,43
+Locks Company,990,7259567.876,40000,43
+Commercial Sporting Goods,978,7259567.876,74000,61
+Principal Bike Company,776,7259567.876,79000,96
+Fashionable Bikes and Accessories,764,7259567.876,76000,90
+Vehicle Shop,742,7259567.876,38000,44
+Distinctive Store,754,7259567.876,37000,46
+Regional Manufacturing,850,7259567.876,38000,40
+Roadway Supplies,840,7259567.876,73000,79
+Retail Sporting Equipment,862,7259567.876,72000,58
+Farthermost Bike Shop,816,7259567.876,8000,7
+Utilitarian Sporting Goods,824,7259567.876,72000,55
+Downtown Hotel,804,7259567.876,74000,85
+Western Bike Supplies,640,7259567.876,38000,48
+Westside Plaza,652,7259567.876,74000,83
+Rural Department Store,630,7259567.876,35000,31
+Outdoor Sporting Goods,614,7259567.876,74000,84
+Fitness Cycling,670,7259567.876,18000,16
+Mechanical Products Ltd.,556,7259567.876,38000,37
+Professional Cycle Store,570,7259567.876,10000,2
+Bike Universe,572,7259567.876,28000,28
+Initial Bike Company,516,7259567.876,19000,13
+Futuristic Bikes,526,7259567.876,77000,79
+Number 1 Supply,474,7259567.876,75000,76
+Golf and Cycle Store,478,7259567.876,75000,86
+Metallic Paint and Overcoat Co,458,7259567.876,26000,28
+Coalition Bike Company,492,7259567.876,23000,18
+"Unicycles, Bicycles, and Tricycles",470,7259567.876,17000,10
+Systematic Sales,338,7259567.876,73000,55
+Fun Toys and Bikes,316,7259567.876,6000,2
+Area Bike Accessories,302,7259567.876,9000,8
+Brightwork Company,368,7259567.876,36000,38
+Exertion Activities Club,400,7259567.876,38000,32
+Juvenile Sports Equipment,440,8086073.676,20000,18
+Lubricant and Grease Suppliers,414,8086073.676,37000,30
+Blue-Ribbon Bike Company,394,8086073.676,9000,6
+Next-Door Bike Store,292,8086073.676,21000,13
+New Bikes Company,310,8086073.676,39000,40
+Worthwhile Activity Store,326,8086073.676,8000,7
+eCommerce Bikes,340,8086073.676,69000,58
+Global Plaza,334,8086073.676,19000,19
+Tiny Bike Boutique,352,8086073.676,6000,4
+Acclaimed Bicycle Company,354,8086073.676,73000,61
+Distinctive Cycles Sales & Service,362,8086073.676,75000,79
+Leading Bike Distributors,364,8086073.676,18000,13
+Activity Center,366,8086073.676,37000,37
+Eighty Toy Stores,502,8086073.676,37000,42
+Front Runner Bikes,480,8086073.676,77000,87
+Industrial Supplies,476,8086073.676,73000,79
+Topnotch Bikes,468,8086073.676,22000,13
+Sporting Goods and Bicycle Shop,462,8086073.676,78000,91
+Widget Bicycle Specialists,514,8086073.676,38000,48
+Hobby Store,568,8086073.676,6000,5
+Racks and Security Systems,554,8086073.676,39000,36
+Principal Bicycle Supply,680,8086073.676,39000,36
+Pedals Warehouse,722,8086073.676,20000,16
+Wonderful Bikes Inc.,710,8086073.676,37000,34
+Bike Rims Company,698,8086073.676,80000,97
+Tread Industries,616,8086073.676,77000,85
+Tandem Bicycle Store,620,8086073.676,37000,46
+Mountain Emporium,610,8086073.676,37000,31
+Ultimate Bike Shop,654,8086073.676,78000,84
+Distance Bikes,650,8086073.676,20000,12
+Excellent Riding Supplies,814,8086073.676,9000,6
+Bike Goods ,826,8086073.676,73000,58
+Sensational Discount Store,842,8086073.676,73000,80
+Elemental Sporting Goods,752,8086073.676,41000,49
+Touring Services,740,8086073.676,38000,43
+Superlative Bikes,734,8086073.676,36000,30
+Extreme Toy Store,766,8086073.676,75000,91
+One-Piece Handle Bars,778,8086073.676,80000,97
+Rally Day Mall,792,8086073.676,75000,92
+Manufacturers Inc,988,8086073.676,39000,42
+Games and Sport Supply Company,1000,8086073.676,42000,48
+Resident Cycle Shop,968,8086073.676,38000,43
+Qualified Sales and Repair Services,884,8086073.676,75000,76
+Tough and Reliable Parts,898,8086073.676,40000,43
+Quitting Business Distributors,910,8086073.676,40000,49
+Parts Shop,922,8086073.676,38000,31
+Retail Toy Store,1096,8086073.676,8000,7
+General Associates,1090,8086073.676,9000,4
+Exchange Parts Inc.,1080,8086073.676,9000,8
+Underglaze and Finish Company,1030,8086073.676,18000,11
+Better Bike Shop,1046,8086073.676,19000,19
+Stylish Department Stores,1012,8086073.676,39000,34
+Exemplary Cycles,1024,8086073.676,20000,16
+Retread Tire Company,1064,8086073.676,20000,18
+Unified Sports Company,1310,8086073.676,80000,98
+Sports Sales and Rental,1338,8086073.676,72000,64
+Selected Distributors,1378,8086073.676,27000,27
+Pedal Systems Company,1416,8086073.676,39000,43
+Metro Bike Mart,1362,8086073.676,76000,86
+Every Bike Shop,1350,8086073.676,76000,80
+Daring Rides,1240,8086073.676,10000,5
+Consolidated Sales,1164,8086073.676,38000,31
+Optimal Bikes,1168,8086073.676,10000,8
+New and Used Bicycles,1182,8086073.676,20000,18
+Noiseless Gear Company,1202,8086073.676,20000,13
+Variety Bike Outlet,1194,8086073.676,9000,6
+Executive Discount Store,1826,8086073.676,39000,35
+Village Tours,1468,8086073.676,40000,37
+Cycles and Scooters,1460,8086073.676,35000,33
+Spoke Manufacturers,1428,8086073.676,74000,61
+Sunny Place Bikes,1456,8086073.676,39000,31
+Functional Store North,1942,8086073.676,19000,12
+Recreation Supplies,1954,8086073.676,22000,18
+Budget Bike Company,1872,8086073.676,22000,18
+Racing Association,1862,8086073.676,76000,85
+Retirement Activities Association,1884,8086073.676,11000,8
+Valuable Bike Parts Company,1898,8086073.676,20000,16
+Reliable Brake Systems,1930,8086073.676,7000,6
+Chain and Chain Tool Distributions,1902,8086073.676,20000,12
+Simple Bike Parts,1918,8086073.676,21000,19
+West Side Mart,1892,9585124.948,19000,18
+Sports Store,1960,9585124.948,76000,95
+Extended Tours,1964,9585124.948,78000,97
+Nearby Cycle Shop,1984,9585124.948,20000,14
+Variety Cycling,1440,9585124.948,21000,19
+Essential Bike Works,1484,9585124.948,39000,34
+Tachometers and Accessories,1472,9585124.948,25000,28
+Cycling Goods,1802,9585124.948,37000,47
+Metropolitan Bicycle Supply,1844,9585124.948,78000,87
+Downhill Bicycle Specialists,1832,9585124.948,77000,81
+Commerce Bicycle Specialists,1220,9585124.948,19000,10
+Little Sports Center,1208,9585124.948,10000,4
+Exceptional Cycle Services,1152,9585124.948,27000,22
+Express Bike Services,1140,9585124.948,38000,40
+Mail Market,1232,9585124.948,19000,16
+Instruments and Parts Company,1284,9585124.948,8000,9
+Outdoor Aerobic Systems Company,1272,9585124.948,8000,3
+Closest Bicycle Store,1260,9585124.948,22000,12
+Authentic Sales and Service,1386,9585124.948,20000,19
+Shipping Specialists,1382,9585124.948,20000,13
+Exclusive Bicycle Mart,1410,9585124.948,77000,100
+Oils and Fluids Warehouse,1398,9585124.948,37000,37
+Consumer Equipment,1402,9585124.948,37000,43
+Nearby Sporting Goods,1326,9585124.948,71000,52
+Exhibition Showroom,1302,9585124.948,77000,94
+Leisure Clearing House,1102,9585124.948,20000,10
+Tubeless Tire Company,1122,9585124.948,75000,89
+Area Sheet Metal Supply,1116,9585124.948,36000,37
+Number One Bike Co.,944,9585124.948,40000,40
+Cycles Wholesaler & Mfg.,940,9585124.948,21000,15
+Riding Cycles,984,9585124.948,74000,70
+Central Bicycle Specialists,868,9585124.948,71000,67
+Action Bicycle Specialists,856,9585124.948,40000,49
+Rampart Amusement Company,810,9585124.948,75000,88
+Vigorous Sports Store,658,9585124.948,73000,82
+Uttermost Bike Shop,602,9585124.948,20000,19
+Metro Metals Co.,596,9585124.948,77000,93
+Channel Outlet,588,9585124.948,40000,46
+Prosperous Tours,534,9585124.948,79000,99
+Bulk Discount Store,432,9585124.948,21000,17
+Bike Boutique,422,10475367.08,41000,49
+Bikes Anyone?,424,10475367.08,27000,22
+Small Cycle Store,392,10475367.08,25000,28
+Margie's Travel,404,10475367.08,35000,34
+Kickstand Sellers,406,10475367.08,8000,3
+Work and Play Association,382,10475367.08,22000,12
+Novelty Bikes,360,10475367.08,74000,70
+Metropolitan Sales and Rental,320,10475367.08,6000,4
+Retail Sales and Service,344,10475367.08,18000,14
+Purchase Mart,328,10475367.08,38000,49
+The Bike Mechanics,298,10475367.08,18000,16
+Clamps & Brackets Co.,306,10475367.08,17000,10
+Outdoor Distributors,530,10475367.08,36000,39
+Metro Bike Works,540,10475367.08,77000,100
+Painters Bicycle Specialists,544,10475367.08,24000,27
+Modern Bike Store,520,10475367.08,21000,15
+Eastside Sporting Goods,548,10475367.08,19000,17
+Online Bike Sellers,560,10475367.08,39000,40
+Independent Outlet,576,10475367.08,25000,22
+Field Trip Inc,452,10475367.08,35000,33
+Tire Company,454,10475367.08,37000,45
+Fourth Bike Store,444,10475367.08,9000,3
+Historic Bicycle Sales,488,10475367.08,38000,40
+Curbside Universe,584,10475367.08,73000,82
+Mechanical Sports Center,604,10475367.08,40000,40
+Riverside Company,634,10475367.08,38000,33
+Full-Service Bike Store,686,10475367.08,38000,39
+Only Bikes and Accessories,704,10475367.08,40000,43
+Grand Discount Store,692,10475367.08,75000,94
+Casual Bicycle Store,664,10475367.08,18000,10
+Weekend Tours,820,10475367.08,9000,9
+Lease-a-Bike Shop,832,10475367.08,71000,67
+Active Cycling,836,10475367.08,73000,73
+Super Sports Store,846,10475367.08,78000,100
+Sales and Supply Company,798,10475367.08,75000,95
+Outdoor Equipment Store,786,10475367.08,76000,89
+Professional Sporting Goods,772,10475367.08,78000,94
+Famous Bike Sales and Service,716,10475367.08,26000,25
+Wholesale Bikes,728,10475367.08,27000,27
+Grand Sport Boutique,746,10475367.08,39000,46
+Handy Bike Services,760,10475367.08,76000,88
+Leather and Vinyl Manufacturing,974,10475367.08,68000,52
+Economic Parts Supply,1006,10475367.08,40000,43
+Incomparable Bicycle Store,994,10475367.08,41000,45
+Convenient Bike Shop,904,10475367.08,38000,46
+Blue Bicycle Company,916,10475367.08,36000,40
+Expert Sports Store,890,10475367.08,77000,81
+Bicycle Outfitters,878,10475367.08,72000,67
+Seventh Bike Store,1086,10475367.08,10000,2
+Mountain Bike Store,1036,10475367.08,22000,14
+Traditional Department Stores,1052,10475367.08,18000,14
+Fitness Sport Boutique,1070,10475367.08,23000,18
+Recreation Systems,1074,10475367.08,20000,14
+Trusted Catalog Store,1018,10475367.08,25000,25
+Wheelsets Storehouse,1316,10475367.08,73000,66
+Catalog Store,1332,10475367.08,69000,55
+Larger Cycle Shop,1356,10475367.08,77000,83
+Exotic Bikes,1344,10475367.08,75000,73
+Fashionable Department Stores,1422,10475367.08,68000,52
+Friendly Bike Shop,1372,10475367.08,39000,30
+Glossy Bikes,1248,10475367.08,22000,19
+Eleventh Bike Store,1176,10475367.08,22000,18
+"Fabrikam Inc., West",1188,10475367.08,18000,12
+Grown-up Bike Store,1856,10475367.08,75000,82
+Strong Metal Manufacturing,1820,10475367.08,36000,38
+Small Bike Accessories Shop,1462,10475367.08,37000,34
+Guaranteed Sales and Service,1450,10475367.08,28000,28
+Endurance Bikes,1434,10475367.08,75000,70
+Classic Cycle Store,1948,10475367.08,22000,15
+Exhilarating Cycles,1976,10475367.08,40000,43
+A Bicycle Association,2051,10475367.08,19000,18
+Active Transport Inc.,1936,10475367.08,8000,9
+Executive Gift Store,1868,10475367.08,76000,88
+Immediate Repair Shop,1878,10475367.08,22000,17
+The Cycle Store,1912,10475367.08,22000,16
+Mobile Outlet,1904,10475367.08,17000,10
+Bike Products and Accessories,1924,10475367.08,19000,14
+A Typical Bike Shop,1934,11342385.9,8000,8
+Big Cycle Mall,1870,11342385.9,77000,89
+Swift Cycles,1946,11342385.9,22000,14
+Solid Bike Parts,1968,11342385.9,77000,99
+Totes & Baskets Company,1992,11342385.9,6000,2
+World of Bikes,1994,11342385.9,19000,17
+Great Bicycle Supply,1980,11342385.9,27000,20
+Practical Bike Supply Company,1436,11342385.9,26000,25
+Friendly Neighborhood Bikes,1448,11342385.9,28000,27
+Orange Bicycle Company,1480,11342385.9,37000,32
+Gift and Toy Store,1822,11342385.9,36000,37
+Black Bicycle Company,1806,11342385.9,40000,45
+Maintenance and Repair for Bicycles,1812,11342385.9,41000,42
+Bicycle Lines Distributors,1858,11342385.9,77000,83
+Designer Department Stores,1848,11342385.9,74000,89
+Extraordinary Bike Works,1836,11342385.9,75000,83
+Beneficial Exercises and Activities,1216,11342385.9,9000,8
+Extras Sporting Goods,1172,11342385.9,7000,2
+Out-of-the-Way Hotels,1268,11342385.9,8000,4
+Largest Bike Store,1280,11342385.9,7000,7
+District Mall,1228,11342385.9,19000,14
+Specialty Sports Store,1256,11342385.9,20000,16
+Yellow Bicycle Company,1374,11342385.9,26000,29
+"Contoso, Ltd.",1390,11342385.9,24000,25
+Fitness Hotel,1346,11342385.9,75000,76
+Leading Sales & Repair,1358,11342385.9,75000,84
+Chic Department Stores,1334,11342385.9,71000,58
+Elite Bikes,1330,11342385.9,69000,58
+Town Industries,1318,11342385.9,38000,40
+Two-Seater Bikes,1306,11342385.9,80000,96
+Go-cart and Bike Specialists,1294,11342385.9,78000,90
+The Accessories Store,1034,11342385.9,18000,13
+First Bike Store,1050,11342385.9,21000,17
+Little Bicycle Supply Shop,1094,11342385.9,11000,6
+All Seasons Sports Supply,1100,11342385.9,10000,9
+Local Sales and Rental,1110,11342385.9,10000,2
+Rural Sales and Service,1120,11342385.9,37000,43
+Hardware Components,1126,11342385.9,75000,91
+A Great Bicycle Company,1148,11342385.9,28000,28
+Rental Bikes,1136,11342385.9,40000,46
+Summer Sports Place,872,11342385.9,73000,73
+Cash & Carry Bikes,902,11342385.9,39000,45
+Unique Bikes,926,11342385.9,27000,25
+Social Activities Club,914,11342385.9,39000,43
+Modular Cycle Systems,932,11342385.9,6000,5
+Journey Sporting Goods,936,11342385.9,21000,13
+Genial Bike Associates,976,11342385.9,70000,55
+Active Systems,952,11342385.9,39000,44
+Westside Cycle Store,726,11342385.9,20000,10
+Paint Supply,788,11342385.9,78000,90
+Stationary Bikes and Stands,800,11342385.9,76000,96
+Satin Finish Company,848,11342385.9,74000,66
+Sleek Bikes ,860,11342385.9,70000,55
+Fitness Toy Store,662,11342385.9,75000,84
+Good Bike Shop,672,11342385.9,19000,14
+Genuine Bike Shop,694,11342385.9,76000,95
+Discount Bicycle Specialists,714,11342385.9,28000,28
+Local Hardware Factory,702,11342385.9,41000,46
+This Area Sporting Goods,684,11342385.9,39000,38
+Responsible Bike Dealers,638,11342385.9,40000,49
+Advanced Bike Components,642,11342385.9,38000,40
+Sheet Metal Manufacturing,598,11342385.9,19000,17
+Third Bike Store,506,11342385.9,37000,44
+Global Sporting Goods,486,11342385.9,36000,39
+Travel Systems,494,11342385.9,21000,19
+Grease and Oil Products Company,496,11342385.9,36000,38
+Unsurpassed Bikes,450,11342385.9,39000,32
+Lots of Bikes Storehouse,524,11342385.9,73000,76
+Client Discount Store,546,11342385.9,24000,20
+Best o' Bikes,542,11342385.9,19000,10
+Valley Bicycle Specialists,308,11342385.9,72000,66
+Riders Company,296,11342385.9,21000,15
+Mountain Toy Store,342,11342385.9,18000,17
+The Gear Store,372,11342385.9,21000,14
+Immense Manufacturing Company,374,11342385.9,76000,73
+Grand Bicycle Stores,398,11342385.9,10000,2
+Flawless Bike Shop,396,11695019.06,10000,4
+Extended Bike Sales,376,11695019.06,73000,76
+Resale Services,370,11695019.06,21000,16
+Remarkable Bike Store,388,11695019.06,17000,10
+Imported and Domestic Cycles,336,11695019.06,24000,20
+Bold Bike Accessories,348,11695019.06,72000,58
+Professional Sales and Service,294,11695019.06,18000,14
+Traction Tire Company,448,11695019.06,39000,31
+Pro Sporting Goods,460,11695019.06,79000,90
+World Bike Discount Store,484,11695019.06,39000,38
+Economy Bikes Company,504,11695019.06,41000,43
+Aerobic Exercise Company,644,11695019.06,40000,43
+Fleet Bikes,700,11695019.06,40000,49
+Another Sporting Goods Company,712,11695019.06,37000,31
+Two Wheels Cycle Store,724,11695019.06,22000,13
+Extreme Riding Supplies,696,11695019.06,79000,96
+Thrilling Bike Tours,682,11695019.06,37000,37
+Preferred Bikes,790,11695019.06,77000,91
+The New Bike Store,966,11695019.06,37000,40
+Riding Excursions,924,11695019.06,27000,28
+Retail Cycle Shop,912,11695019.06,38000,46
+Basic Sports Equipment,900,11695019.06,38000,44
+Strenuous Exercise Shop,1098,11695019.06,7000,8
+Good Toys,1092,11695019.06,9000,5
+Brakes and Gears,1032,11695019.06,18000,12
+Countryside Company,1048,11695019.06,26000,20
+More Bikes!,1308,11695019.06,79000,97
+Eastside Department Store,1336,11695019.06,70000,61
+Main Bicycle Services,1360,11695019.06,75000,85
+Healthy Activity Store,1348,11695019.06,74000,79
+Sports Products Store,1376,11695019.06,26000,28
+Field Trip Store,1242,11695019.06,8000,2
+Sample Bike Store,1170,11695019.06,7000,5
+Sparkling Paint and Finishes,1860,11695019.06,76000,84
+Major Sporting Goods,1824,11695019.06,40000,36
+Alpine Ski House,1458,11695019.06,37000,32
+Wire Baskets and Parts,1956,11695019.06,19000,19
+Quantity Discounts,1944,11695019.06,19000,13
+Thrifty Parts and Sales,1932,11695019.06,8000,7
